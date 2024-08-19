@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-- 👀 **Interesses:** Desenvolvimento Web, Inteligência Artificial, Data Science, e Automação.
+- 👀 **Interesses:** Desenvolvimento Web, Inteligência Artificial, Machine Learning
 - 🌱 **Atualmente aprendendo:** Tópicos em Machine Learning
 - 💼 **Experiência:** Desenvolvimento com **PHP**, **Python**
 - 💞️ **Buscando colaborar em:** Projetos open-source, análises de dados, e desenvolvimento de APIs.
